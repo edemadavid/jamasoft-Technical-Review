@@ -19,9 +19,9 @@ This project is a Laravel-based RESTful API for managing a web directory. It inc
 
 Before you begin, ensure you have met the following requirements:
 
-- PHP (>= 8.0)
+- PHP (>= 8.3.7)
 - Composer
-- MySQL or another supported database
+- MySQL (8.0.30) or another supported database
 - Node.js and npm (for optional frontend setup)
 
 ## Installation
